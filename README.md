@@ -13,9 +13,10 @@ ES6 문법에 대해서도 자세히는 알려주지 않았지만 이렇게 사�
 
 
 ### Tech
-- lodash 
-- youtube-api-search
+
 - react
+  - lodash 
+  - youtube-api-search
 - bootstrap
 
 ### 시연 영상
